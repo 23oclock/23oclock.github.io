@@ -2,7 +2,7 @@
 # 站点配置
 
 baseURL = "https://zhimaye.cc/"
-title = "指马也"
+title = "二十三点"
 languageCode = "zh-CN"
 hasCJKLanguage = true
 # 版权信息（支持 Markdown）

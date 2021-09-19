@@ -759,7 +759,7 @@ uglyURLs = false
     modifiedDateIcon = "calendar-check"
 
     # 是否显示过期时间
-    displayExpiredDate = true
+    displayExpiredDate = false
     # 过期时间的图标
     expiredDateIcon = "calendar-times"
 
@@ -771,12 +771,12 @@ uglyURLs = false
     categoryDelimiter = "/"
 
     # 是否显示字数统计
-    displayWordCount = true
+    displayWordCount = false
     # 字数统计的图标
     wordCountIcon = "pencil-alt"
 
     # 是否显示阅读时长
-    displayReadingTime = true
+    displayReadingTime = false
     # 阅读时长的图标
     readingTimeIcon = "clock"
 

@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>指马也</title>
+        <title>二十三点</title>
         <link>https://zhimaye.cc/</link>
         <description></description>
         <generator>Hugo 0.87.0 https://gohugo.io/</generator>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 19 Sep 2021 15:18:45 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 20 Sep 2021 00:20:20 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://zhimaye.cc/rss.xml" />
         
