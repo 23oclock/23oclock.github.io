@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">指马也</title>
     <subtitle type="html"></subtitle>
-    <updated>2021-09-19T15:01:29&#43;08:00</updated>
+    <updated>2021-09-19T15:18:45&#43;08:00</updated>
     <id>https://zhimaye.cc/</id>
     <link rel="alternate" type="text/html" href="https://zhimaye.cc/" />
     <link rel="self" type="application/atom&#43;xml" href="https://zhimaye.cc/atom.xml" />
@@ -17,19 +17,20 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.87.0">Hugo</generator>
         <entry>
-            <title type="text"></title>
-            <link rel="alternate" type="text/html" href="https://zhimaye.cc/about/about/" />
-            <id>https://zhimaye.cc/about/about/</id>
-            <updated>2021-09-19T15:01:25&#43;08:00</updated>
-            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <title type="text">千秋岁引</title>
+            <link rel="alternate" type="text/html" href="https://zhimaye.cc/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/" />
+            <id>https://zhimaye.cc/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</id>
+            <updated>2021-09-19T14:21:29&#43;08:00</updated>
+            <published>2021-09-19T14:17:58&#43;08:00</published>
             <author>
                     <name>二十三点</name>
                     <uri>https://zhimaye.cc/</uri>
                     <email>flumine@163.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">待我补充。</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">初见春山，秋波流睇，浅笑低眉便合意。枝头戏燕相私语，心中已定今生事。只未料，情根种，……</summary>
             
-                <content type="html">&lt;p&gt;待我补充。&lt;/p&gt;
+                <content type="html">&lt;p&gt;初见春山，秋波流睇，浅笑低眉便合意。枝头戏燕相私语，心中已定今生事。只未料，情根种，深至此。&lt;/p&gt;
+&lt;p&gt;辗转春秋来复去。笑泪俱成云烟耳。相思种种如初识。连天弱水三千里，何如眼前一知己。愿白发，仍相依，如今日。&lt;/p&gt;
 </content>
             
             
@@ -38,7 +39,23 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhimaye.cc/categories/%E8%AF%97%E8%AF%8D/" term="诗词" label="诗词" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://zhimaye.cc/tags/%E8%AF%97%E8%AF%8D/" term="诗词" label="诗词" />
+                            
+                        
                     
                 
             
