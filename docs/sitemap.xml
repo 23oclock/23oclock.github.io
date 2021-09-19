@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://zhimaye.cc/categories/</loc>
     <lastmod>2021-09-19T14:21:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://zhimaye.cc/posts/</loc>
     <lastmod>2021-09-19T14:21:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://zhimaye.cc/tags/</loc>
     <lastmod>2021-09-19T14:21:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</loc>
+    <loc>https://zhimaye.cc/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</loc>
     <lastmod>2021-09-19T14:21:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://zhimaye.cc/</loc>
     <lastmod>2021-09-19T14:21:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E8%AF%97%E8%AF%8D/</loc>
+    <loc>https://zhimaye.cc/tags/%E8%AF%97%E8%AF%8D/</loc>
     <lastmod>2021-09-19T14:21:29+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E8%AF%97%E8%AF%8D/</loc>
+    <loc>https://zhimaye.cc/categories/%E8%AF%97%E8%AF%8D/</loc>
     <lastmod>2021-09-19T14:21:29+08:00</lastmod>
   </url>
 </urlset>

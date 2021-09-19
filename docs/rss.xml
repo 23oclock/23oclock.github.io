@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>指马也</title>
-        <link>https://example.com/</link>
+        <link>https://zhimaye.cc/</link>
         <description></description>
         <generator>Hugo 0.87.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 19 Sep 2021 14:41:30 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 14:55:28 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://zhimaye.cc/rss.xml" />
         
         
             <item>
                 <title>千秋岁引</title>
-                <link>https://example.com/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</link>
-                <guid isPermaLink="true">https://example.com/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</guid>
+                <link>https://zhimaye.cc/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</link>
+                <guid isPermaLink="true">https://zhimaye.cc/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</guid>
                 <pubDate>Sun, 19 Sep 2021 14:17:58 &#43;0800</pubDate>
                 
                     <author>flumine@163.com (二十三点)</author>
@@ -52,7 +52,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/%E8%AF%97%E8%AF%8D/">诗词</category>
+                                    <category domain="https://zhimaye.cc/categories/%E8%AF%97%E8%AF%8D/">诗词</category>
                                 
                             
                         
@@ -62,7 +62,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/%E8%AF%97%E8%AF%8D/">诗词</category>
+                                    <category domain="https://zhimaye.cc/tags/%E8%AF%97%E8%AF%8D/">诗词</category>
                                 
                             
                         
