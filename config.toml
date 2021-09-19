@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '指马也'
+
+publishDir = 'docs'
+themes = 'LoveIt'
