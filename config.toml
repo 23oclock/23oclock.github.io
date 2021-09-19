@@ -3,4 +3,8 @@ languageCode = 'en-us'
 title = '指马也'
 
 publishDir = 'docs'
-themes = 'LoveIt'
+
+theme = 'LoveIt'
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
