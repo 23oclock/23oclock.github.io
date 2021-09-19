@@ -7,26 +7,68 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo 主题 MemE</title>
+        <title>指马也</title>
         <link>https://example.com/</link>
-        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <description></description>
         <generator>Hugo 0.87.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>flumine@163.com (二十三点)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>flumine@163.com (二十三点)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 19 Sep 2021 13:38:52 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 19 Sep 2021 14:41:30 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
+        
+            <item>
+                <title>千秋岁引</title>
+                <link>https://example.com/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</link>
+                <guid isPermaLink="true">https://example.com/posts/%E5%8D%83%E7%A7%8B%E5%B2%81%E5%BC%95/</guid>
+                <pubDate>Sun, 19 Sep 2021 14:17:58 &#43;0800</pubDate>
+                
+                    <author>flumine@163.com (二十三点)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;初见春山，秋波流睇，浅笑低眉便合意。枝头戏燕相私语，心中已定今生事。只未料，情根种，深至此。&lt;/p&gt;
+&lt;p&gt;辗转春秋来复去。笑泪俱成云烟耳。相思种种如初识。连天弱水三千里，何如眼前一知己。愿白发，仍相依，如今日。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/categories/%E8%AF%97%E8%AF%8D/">诗词</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://example.com/tags/%E8%AF%97%E8%AF%8D/">诗词</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
