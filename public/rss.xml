@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>二十三点</title>
+        <link>https://23oclock.github.io/</link>
+        <description></description>
+        <generator>Hugo 0.101.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>flumine@163.com (23oclock)</managingEditor>
+        
+        
+            <webMaster>flumine@163.com (23oclock)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sun, 19 Jun 2022 23:39:59 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://23oclock.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>测试</title>
+                <link>https://23oclock.github.io/post/test/</link>
+                <guid isPermaLink="true">https://23oclock.github.io/post/test/</guid>
+                <pubDate>Sun, 19 Jun 2022 20:56:09 &#43;0800</pubDate>
+                
+                    <author>flumine@163.com (23oclock)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+测试
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;远上寒山石径斜，白云深处有人家。&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
