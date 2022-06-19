@@ -1,5 +1,5 @@
 (undo-tree-save-format-version . 1)
-"cf2f767ba08a6aa39f336f82c8a5fc7fd1949c19"
+"197c5e689cbc6839b9ab1d38b0e2f7d09893d0ea"
 [nil nil nil nil (25263 7933 817704 0) 0 nil]
 ([nil nil ((1 . 35308) (#("baseURL = 'http://example.org/'
 languageCode = 'en-us'
@@ -1452,5 +1452,7 @@ nil
 ([nil nil ((#("example" 0 7 (fontified t face font-lock-string-face)) . 71) (t 25263 8264 0 0)) nil (25263 16544 255367 0) 0 nil])
 ([nil nil ((#("." 0 1 (fontified t face font-lock-string-face)) . 71)) nil (25263 16544 255364 0) 0 nil])
 ([nil nil ((#("com" 0 3 (fontified t face font-lock-string-face)) . 71)) nil (25263 16544 255361 0) 0 nil])
-([nil current ((71 . 89)) nil (25263 16544 255353 0) 0 nil])
+([nil nil ((71 . 89)) nil (25263 16544 255353 0) 0 nil])
+([nil nil ((286 . 287) (285 . 286) (t 25263 16547 0 0) 284) nil (25263 18693 735742 0) 0 nil])
+([nil current ((nil rear-nonsticky nil 305 . 306) (nil fontified nil 287 . 306) (287 . 306)) nil (25263 18693 735731 0) 0 nil])
 nil
