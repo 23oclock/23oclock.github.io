@@ -1386,4 +1386,4 @@ uglyURLs = false
 
 ## ox-hugo 配置
 [markup.goldmark.renderer]
-  unsafe = true
+    unsafe = true

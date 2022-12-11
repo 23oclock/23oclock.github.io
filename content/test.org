@@ -1,0 +1,4 @@
+#+hugo_base_dir: ../
+#+title: test
+* test
+ 你好！
