@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">二十三点</title>
     <subtitle type="html"></subtitle>
-    <updated>2022-06-20T00:16:20&#43;08:00</updated>
+    <updated>2022-12-11T20:40:16&#43;08:00</updated>
     <id>https://23oclock.github.io/</id>
     <link rel="alternate" type="text/html" href="https://23oclock.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://23oclock.github.io/atom.xml" />
@@ -15,7 +15,7 @@
                 <email>flumine@163.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    <generator uri="https://gohugo.io/" version="0.101.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
         <entry>
             <title type="text">测试</title>
             <link rel="alternate" type="text/html" href="https://23oclock.github.io/post/test/" />
