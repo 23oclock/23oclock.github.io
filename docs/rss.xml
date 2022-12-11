@@ -1,35 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">二十三点</title>
-    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2022-12-11T22:38:01&#43;08:00</updated>
-    <id>https://23oclock.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://23oclock.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://23oclock.github.io/atom.xml" />
-    <author>
-            <name>flumine</name>
-            <uri>https://23oclock.github.io</uri>
-            
-                <email>flumine@qq.com</email>
-            </author>
-    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
-        <entry>
-            <title type="text">emacs</title>
-            <link rel="alternate" type="text/html" href="https://23oclock.github.io/posts/emacs/" />
-            <id>https://23oclock.github.io/posts/emacs/</id>
-            <updated>2022-12-11T22:33:14&#43;08:00</updated>
-            <published>0001-01-01T00:00:00&#43;00:00</published>
-            <author>
-                    <name>flumine</name>
-                    <uri>https://23oclock.github.io</uri>
-                    <email>flumine@qq.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">lexical-binding 在看 purcell 的 emacs 配置，发现他在启动 emacs 时，首先调整了 emacs 的垃圾回收阈值 gc-cons-thr……</summary>
-            
-                <content type="html">&lt;h2 id=&#34;lexical-binding&#34;&gt;lexical-binding&lt;/h2&gt;
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>二十三点</title>
+        <link>https://23oclock.github.io/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.108.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>flumine@qq.com (flumine)</managingEditor>
+        
+        
+            <webMaster>flumine@qq.com (flumine)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sun, 11 Dec 2022 22:50:16 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://23oclock.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>emacs</title>
+                <link>https://23oclock.github.io/posts/emacs/</link>
+                <guid isPermaLink="true">https://23oclock.github.io/posts/emacs/</guid>
+                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                
+                    <author>flumine@qq.com (flumine)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;lexical-binding&#34;&gt;lexical-binding&lt;/h2&gt;
 &lt;p&gt;在看 purcell 的 emacs 配置，发现他在启动 emacs 时，首先调整了 emacs 的垃圾回收阈值 gc-cons-threshold，将设置为 20M（20*1024*1024，默认为 800000），并在启动时临时调到 128M。具体使用的配置为&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -130,18 +139,19 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;:after&lt;/span&gt; &lt;span class=&#34;nv&#34;&gt;ox&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</content>
-            
-            
-            
-            
-            
+&lt;/div&gt;</description>
+                
+                
+                
+                
                 
                     
-                
+                        
+                    
+                        
                     
                 
-            
-        </entry>
-    
-</feed>
+            </item>
+        
+    </channel>
+</rss>
