@@ -3,16 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://23oclock.github.io/categories/</loc>
+    <lastmod>2022-12-12T00:32:28+08:00</lastmod>
   </url><url>
-    <loc>https://23oclock.github.io/posts/emacs/</loc>
-    <lastmod>2022-12-11T22:33:14+08:00</lastmod>
+    <loc>https://23oclock.github.io/tags/emacs/</loc>
+    <lastmod>2022-12-12T00:32:28+08:00</lastmod>
+  </url><url>
+    <loc>https://23oclock.github.io/posts/lexical-binding/</loc>
+    <lastmod>2022-12-12T00:32:28+08:00</lastmod>
   </url><url>
     <loc>https://23oclock.github.io/posts/</loc>
-    <lastmod>2022-12-11T22:33:14+08:00</lastmod>
+    <lastmod>2022-12-12T00:32:28+08:00</lastmod>
   </url><url>
     <loc>https://23oclock.github.io/tags/</loc>
+    <lastmod>2022-12-12T00:32:28+08:00</lastmod>
   </url><url>
     <loc>https://23oclock.github.io/</loc>
-    <lastmod>2022-12-11T22:33:14+08:00</lastmod>
+    <lastmod>2022-12-12T00:32:28+08:00</lastmod>
+  </url><url>
+    <loc>https://23oclock.github.io/categories/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2022-12-12T00:32:28+08:00</lastmod>
+  </url><url>
+    <loc>https://23oclock.github.io/posts/use-package/</loc>
+    <lastmod>2022-12-12T00:31:44+08:00</lastmod>
   </url>
 </urlset>
