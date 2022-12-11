@@ -1384,6 +1384,3 @@ uglyURLs = false
     # 说明：视频地址可留空（""）
 
 
-## ox-hugo 配置
-[markup.goldmark.renderer]
-    unsafe = true
