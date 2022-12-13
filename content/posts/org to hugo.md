@@ -2,7 +2,11 @@
 title = "org to hugo"
 author = ["flumine@qq.com"]
 date = 2022-12-12T22:57:00+08:00
+<<<<<<< HEAD
 lastmod = 2022-12-12T23:26:43+08:00
+=======
+lastmod = 2022-12-12T22:59:59+08:00
+>>>>>>> 899252347feb76919fe30400afc2b57bb65a7e1c
 tags = ["emacs"]
 categories = ["技术"]
 draft = false
@@ -60,8 +64,11 @@ draft = false
 ## 更多属性设置 {#更多属性设置}
 
 参见 [org to hugo](https://ox-hugo.scripter.co/doc/org-meta-data-to-hugo-front-matter/).
+<<<<<<< HEAD
 
 
 ## <span class="org-todo todo DRAFT">DRAFT</span> test {#test}
 
 测试。
+=======
+>>>>>>> 899252347feb76919fe30400afc2b57bb65a7e1c
