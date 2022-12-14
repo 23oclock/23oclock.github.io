@@ -1,8 +1,9 @@
 +++
 title = "magit 自动 commit 和 push"
 author = ["flumine@qq.com"]
-date = 2022-12-14T23:04:00+08:00
-lastmod = 2022-12-14T23:08:45+08:00
+date = 2022-12-14T23:25:00+08:00
+lastmod = 2022-12-14T23:25:55+08:00
+tags = ["emacs"]
 categories = ["技术"]
 draft = false
 +++
