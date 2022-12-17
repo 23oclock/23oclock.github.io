@@ -1,0 +1,9 @@
+#+author: flumine@qq.com
+#+filetags: @投资
+#+hugo_auto_set_lastmod: t
+#+SEQ_TODO: TODO DRAFT DONE
+
+* 债券为什么跌？
+债券的价格和利率成反比，利率上涨，债券价格下跌；利率下跌，债券价格上涨。
+
+什么时候利率会上升？市场急于用钱的时候。因此从这个角度来看，债券市场低迷，是否可以推断股票市场即将迎来一波上升？
