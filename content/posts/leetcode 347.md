@@ -2,7 +2,7 @@
 title = "leetcode 347. Top K Frequent Elements"
 author = ["flumine@qq.com"]
 date = 2022-12-18T23:53:00+08:00
-lastmod = 2022-12-19T00:03:06+08:00
+lastmod = 2022-12-19T00:34:06+08:00
 tags = ["leetcode"]
 categories = ["技术"]
 draft = false
@@ -16,18 +16,18 @@ draft = false
 
 ```python
 def topKFrequent(nums: List[int], k: int) -> List[int]:
-  count = {}
-  for x in nums:
-    count[x] = 1 + count.get(x, 0)
+    count = {}
+    for x in nums:
+        count[x] = 1 + count.get(x, 0)
 
-  freq = [[] for _ in range(len(nums) + 1)]
-  for x, n in count.items():
-    freq[n].append(x)
+        freq = [[] for _ in range(len(nums) + 1)]
+        for x, n in count.items():
+            freq[n].append(x)
 
-  res = []
-  for i in range(len(freq) - 1, -1, -1):
-    for x in freq[i]:
-      res.append(x)
-      if len(res) == k:
-        return res
+    res = []
+    for i in range(len(freq) - 1, -1, -1):
+        for x in freq[i]:
+            res.append(x)
+            if len(res) == k:
+                return res
 ```
