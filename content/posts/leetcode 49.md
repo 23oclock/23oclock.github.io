@@ -2,7 +2,7 @@
 title = "leetcode 49. Group Anagrams"
 author = ["flumine@qq.com"]
 date = 2022-12-18T23:32:00+08:00
-lastmod = 2022-12-19T00:11:47+08:00
+lastmod = 2022-12-19T00:35:39+08:00
 tags = ["leetcode"]
 categories = ["技术"]
 draft = false
@@ -16,12 +16,13 @@ draft = false
 
 ```python
 def groupAnagrams(strs: List[str]) -> List[List[str]]:
-  res = defaultdict(list)
-  for s in strs:
-    count = [0] * 26
-    for c in s:
-      count[ord(c) - ord("a")] += 1
-    res[tuple(count)].append(s)
+    res = defaultdict(list)
 
-  return res.values()
+    for s in strs:
+        count = [0] * 26
+        for c in s:
+            count[ord(c) - ord("a")] += 1
+        res[tuple(count)].append(s)
+
+    return res.values()
 ```
