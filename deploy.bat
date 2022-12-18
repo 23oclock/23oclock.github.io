@@ -2,7 +2,7 @@ hugo -D
 
 git add .
 
-SET msg="rebuilding site %date%"
+SET msg="updating site %date%"
 
 git commit -m %msg%
 
